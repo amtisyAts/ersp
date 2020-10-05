@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37eeb3db-e7b8-407b-81ee-cc7c0f6a6c95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/event/dm/dm.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after/dah.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after/djsm.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ambition/des.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ambition/qwshcd.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/before/duu.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/event.md" beforeDir="false" afterPath="$PROJECT_DIR$/event/event.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/djsm/djsm.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/before/dajda.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/dm/dm.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plan/cbdb/cbdb.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +32,18 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/after" />
+      <recent name="$PROJECT_DIR$/before" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
