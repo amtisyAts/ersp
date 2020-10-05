@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37eeb3db-e7b8-407b-81ee-cc7c0f6a6c95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/plan/plan.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principal/time/2020.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event/dm/dm.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/event.md" beforeDir="false" afterPath="$PROJECT_DIR$/event/event.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,5 +30,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="661" y="230" width="654" height="645" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601899699772">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="661" y="230" width="654" height="645" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1601899699772" />
   </component>
 </project>
