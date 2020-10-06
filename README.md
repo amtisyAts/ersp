@@ -1,9 +1,9 @@
-#Overview
+Overview
 
 ersp is an abbreviation for explore, reflect, summarize, practice.
 The project hopes to establish a personal thought system, distill fragmentary knowledge and experience into systematic thoughts, so as to guide future behavior in reality and efficiently handle all incidents encountered
 
-##specification
+Specification
 
 I tried to do similar things before, but failed for many reasons. It would be very appropriate to do this with the help of git. One reason is that there is no strict specification for the format of the content, which leads to the content being mixed into an article, which is a bit confusing. Therefore, here are some principled rules:
 
@@ -16,7 +16,7 @@ I tried to do similar things before, but failed for many reasons. It would be ve
 
 In addition, different format requirements need to be proposed based on different content.
 
-##Content Classification
+Content Classification
 
 Content classification is a very important work, which directly determines the life of the project. The following points need to be considered:
 
@@ -25,7 +25,7 @@ Content classification is a very important work, which directly determines the l
 - Clear boundaries: high cohesion, low coupling
 - Clear structure: the location of each floor appears reasonable
 
-##Terms of Use
+Terms of Use
 
 The use specification is mainly considered from the perspective of economy
 
