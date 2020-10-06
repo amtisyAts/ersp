@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37eeb3db-e7b8-407b-81ee-cc7c0f6a6c95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/after/dah.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/after/djsm.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ambition/des.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ambition/qwshcd.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/before/duu.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/djsm/djsm.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/before/dajda.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/dm/dm.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plan/cbdb/cbdb.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +23,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,6 +42,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601950363027">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1601950363027" />
     <state x="661" y="230" width="654" height="645" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601899699772">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
